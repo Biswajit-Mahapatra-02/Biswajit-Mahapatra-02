@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Biswajit-Mahapatra-02
 - A 1st year CS student
 - 👀 I’m interested in learning more languages and ways to solve problems efficiently
-- 🌱 I’m currently learning Java, C++, python, HTML, CSS, JS, R and much more.
+- 🌱 I’m currently learning Java, C++, python, HTML, CSS, JS and R.
 - 💞️ I’m looking to collaborate on anything which will benefit from my skill set.
 - 📫 How to reach me:
   Twitter: @Biswajit1102
