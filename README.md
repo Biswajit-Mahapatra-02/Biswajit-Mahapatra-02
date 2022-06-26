@@ -1,4 +1,7 @@
 <h1> Hello!👋 I am Biswajit. 🧑‍💻 </h1>
+<a href="https://twitter.com/Biswajit1102">
+    <img align="left" alt="Biswajit's twitter" width="20px" src="https://i.imgur.com/tXSoThF.png" />
+  </a>
 <body>
   <article>
     <p> A passionate student developer, currently exploring all fields ✨ </p>
