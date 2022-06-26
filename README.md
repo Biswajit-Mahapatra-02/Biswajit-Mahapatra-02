@@ -3,7 +3,7 @@
   <article>
     <p> A passionate student developer, currently exploring all fields ✨ </p>
     <p> I love solving problems 🤓 </p>
-    <h4>The langauges I am learning/learned so far</h4>
+    <h4>The langauges I am learning so far</h4>
       <ul>
     <li> Java </li>
     <li> C++ </li>
