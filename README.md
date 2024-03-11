@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Biswajit-Mahapatra-02
-- A 2nd year CS student
+- A 3rd year CS student
 - Learning web dev, ML and data science
 - 📫 How to reach me:
   Twitter: @Biswajit1102
